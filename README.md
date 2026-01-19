@@ -1,2 +1,2 @@
-# SQL.No1
-My first project of SQL
+# SQL+Python : No.1
+My first project to EDA with Python + SQL
